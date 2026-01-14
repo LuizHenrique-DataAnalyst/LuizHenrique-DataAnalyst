@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, Me Chamo Luiz!
 
-<!--
-**LuizHenrique-DataAnalyst/LuizHenrique-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst com foco em Python e SQL para análise e manipulação de dados.
+Atuação em projetos envolvendo ETL, análise exploratória, dashboards e indicadores de desempenho.
+Background em Supply Chain e planejamento, aplicando dados para gerar eficiência, previsibilidade e valor ao negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quem sou eu?
+
+📊 Data Analytics | Business & Supply Chain
+🐍 Python | 🗄️ SQL | 📈 Power BI | Excel
+🔍 Análise, tratamento e visualização de dados
+⚙️ Automação de processos e apoio à decisão
+🚀 Transformando dados em insights acionáveis
